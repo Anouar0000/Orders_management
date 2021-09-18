@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionDesCommandes", "GestionDesCommandes\GestionDesCommandes.csproj", "{35C5A10A-EEAC-477D-9684-E9F0532B8A2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BAL", "BAL\BAL.csproj", "{689AA014-EE18-463C-A6CD-0724A2DAD79C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{198B4F45-3081-48DD-9E37-AE52301696F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35C5A10A-EEAC-477D-9684-E9F0532B8A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C5A10A-EEAC-477D-9684-E9F0532B8A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C5A10A-EEAC-477D-9684-E9F0532B8A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C5A10A-EEAC-477D-9684-E9F0532B8A2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689AA014-EE18-463C-A6CD-0724A2DAD79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689AA014-EE18-463C-A6CD-0724A2DAD79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689AA014-EE18-463C-A6CD-0724A2DAD79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689AA014-EE18-463C-A6CD-0724A2DAD79C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{198B4F45-3081-48DD-9E37-AE52301696F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{198B4F45-3081-48DD-9E37-AE52301696F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{198B4F45-3081-48DD-9E37-AE52301696F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{198B4F45-3081-48DD-9E37-AE52301696F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F4C0934-7398-4484-A45C-3787A7A428D7}
+	EndGlobalSection
+EndGlobal

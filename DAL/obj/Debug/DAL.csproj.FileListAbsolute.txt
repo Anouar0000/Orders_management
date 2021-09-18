@@ -1,0 +1,6 @@
+C:\Users\Anouar\source\repos\GestionDesCommandes\DAL\bin\Debug\DAL.dll
+C:\Users\Anouar\source\repos\GestionDesCommandes\DAL\bin\Debug\DAL.pdb
+C:\Users\Anouar\source\repos\GestionDesCommandes\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Anouar\source\repos\GestionDesCommandes\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Anouar\source\repos\GestionDesCommandes\DAL\obj\Debug\DAL.dll
+C:\Users\Anouar\source\repos\GestionDesCommandes\DAL\obj\Debug\DAL.pdb
